@@ -1,0 +1,12 @@
+{
+  "name": "deutarano-dark",
+  "theme": "syntax",
+  "version": "1.0",
+  "private": true,
+  "description": "A theme for colourblind users",
+  "repository": "https://github.com/kevinsawicki/monokai",
+  "license": "GNU GPL",
+  "engines": {
+    "atom": ">=1.13.0"
+  }
+}
